@@ -4,8 +4,6 @@
     @Date        : 2022-09-21 05:49:06
 */
 #pragma once
-
-
 #include <cstddef>
 #include <vector>
 
